@@ -1,0 +1,6 @@
+{
+  "name": "Anatomica 8D — Low-Poly Female Character & Animation Studio",
+  "description": "Game-ready ultra-low-poly (<1,000 triangles) anatomically accurate adult female human character with a 25-bone humanoid rig and complete eight-directional animation library across 25 locomotion, combat, stealth, traversal, and interaction systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
